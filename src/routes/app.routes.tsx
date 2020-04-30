@@ -57,6 +57,7 @@ const TabsNavigation: React.FC = () => {
       tabBarOptions={{
         style: {
           backgroundColor: '#131418',
+          borderTopColor: '#131418',
         },
         activeTintColor: '#fff',
         inactiveTintColor: '#92929c',

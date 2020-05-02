@@ -1,6 +1,4 @@
-<!-- PROJECT LOGO -->
-<br />
-### PicPay-Clone
+### PicPay Clone
 
 ## Sobre o Projeto
 

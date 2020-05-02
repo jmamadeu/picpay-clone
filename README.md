@@ -54,5 +54,5 @@ Distribuído sob a licença MIT.
 
 ## Contato
 
-João Amadeu - [Github](https://github.com/jmamadeu)
+João Amadeu - [Github](https://github.com/jmamadeu) <br>
 João Amadeu - [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-amadeu-8812291a5/)
